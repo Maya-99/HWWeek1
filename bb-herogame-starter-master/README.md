@@ -1,3 +1,13 @@
+So basically after about 1 hour I already got stuck on small stupid stuff. I unfortunately i have not been able to recover.
+I worked about 14 hours in total on it, al it is by far not how I would want to submit it. However, I have learned quite a bit the past
+week then then I ever have in half a year. So even if I don't make the boot camp, next year I will be working as a developer at a
+company that is willing to give me time to master the skills.
+
+At first I was feeling really bad about failing myself, sinds I put my 100% and have nothing to show for, however it will not be the
+end!
+
+
+
 # Beginner Bootcamp Homework
 
 Hello beginner bootcampers. Here is your first formal homework  assignment!
