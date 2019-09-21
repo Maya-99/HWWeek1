@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(209, 177, 231);
+    margin: 0;
+    padding: 2rem 0;
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+}
+
+img {
+    width: 15%;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p {
+    color: #000;
+}
